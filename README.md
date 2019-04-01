@@ -10,7 +10,7 @@ A image gallery contains 9 photos (bootstrap3, google font, fontawesome icon)
 Startup:
 A Startup website that match people with feline.(bootstrap3, google font, fontawesome icon)
 
-ColorGame
+ColorGame:
 A color guessing game that base on the given RGB then guess the corresponding color (DOM) 
 
 
