@@ -13,4 +13,6 @@ A Startup website that match people with feline.(bootstrap3, google font, fontaw
 ColorGame:
 A color guessing game that base on the given RGB then guess the corresponding color (DOM) 
 
+Usage:
+Drag the HTML file in each folder to browser 
 
