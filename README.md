@@ -2,7 +2,7 @@
 I am taking a Web developement course on Udemy (an online educational platform)
 https://www.udemy.com/share/100026B0EceVdWQXo=/
 
-This Web Development folder contains the project I have done throught the instructions from the course.
+This Web Development folder contains projects I have done through the course.
 
 Gallery:
 A image gallery contains 9 photos (bootstrap3, google font, fontawesome icon) 
