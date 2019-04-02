@@ -16,7 +16,7 @@ ColorGame:
 A color guessing game that base on the given RGB then guess the corresponding color (DOM)
 https://qaz6209031.github.io/Web_Development/colorGame/colorGame.html
 
-TodoList:
+ToDoList:
 A todo list web applicatioin that allows you to add and remove todos(jQuery, fontawesome icon, google font)
 https://qaz6209031.github.io/Web_Development/ToDoList/index.html
 
