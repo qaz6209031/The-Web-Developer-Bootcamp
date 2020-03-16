@@ -27,6 +27,3 @@ https://qaz6209031.github.io/Web_Development/Animation/circles.html
 Final Project
 Surfing Spot Website
 https://best-surfing-spot.herokuapp.com/
-
-
-
